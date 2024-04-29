@@ -12,7 +12,7 @@ Software Required:
 
 ![image](https://github.com/vinil-p/SampleUIFramework/assets/20809464/f265766a-8c5c-4388-afa8-5956fc8b0eda)
 
-3) Project Structure The project structure is organized as follows:
+3) **Project Structure The project structure is organized as follows:**
 
 
 ├── src
@@ -35,7 +35,7 @@ Software Required:
 ├── pom.xml                   (Maven configuration)
  
 
-4) Test Results
+4) **Test Results**
 •	Test report automatically generated on target folder after finished the test execution
 •	See test report from target/cucumber-reports/advanced-reports/cucumber-html-reports/overview-features.html
 •	You can also share your Cucumber Report with another person at https://reports.cucumber.io, just go to src/test/resources/cucumber.properties then change the value to be true
