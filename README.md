@@ -8,29 +8,5 @@ Software Required:
 
 **General Flow of Any Selenium Framework with POM model and Cucumber.** 
 
-+--------------------------+
-|         Test Suite        |
-+--------------------------+
-            |
-            v
-+--------------------------+
-|     Cucumber Features    |
-+--------------------------+
-            |
-            v
-+--------------------------+
-|     Step Definitions     |
-|     (Cucumber Steps)     |
-+--------------------------+
-            |
-            v
-+--------------------------+
-|    Page Object Classes   |
-|   (Elements & Methods)   |
-+--------------------------+
-            |
-            v
-+--------------------------+
-|        WebDriver         |
-|     (Browser Control)    |
-+--------------------------+
+
+![image](https://github.com/vinil-p/SampleUIFramework/assets/20809464/f265766a-8c5c-4388-afa8-5956fc8b0eda)
