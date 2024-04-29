@@ -15,24 +15,8 @@ Software Required:
 3) **Project Structure The project structure is organized as follows:**
 
 
-├── src
-│   ├── main
-│   │   └── java
-│   │       └── com
-│   │           └── pages
-│   │               ├── pages           (All the Page Object classes)
-│   │               
-│   │           └── driver
-│   │               └── ConfigurationDriver.java (Contains browser Launch related code)
-│   │           └── repo
-│   │               └── Repository.java (Common Utils/Common code)
-│   │   └── resources
-│   │       └── features (All the Feature Files)
-│   └── test
-│       └── java
-│           ├── run                (Executor.java--Cucumber Executable code where you can pass the tags)
-│           └── tests             (All the test methods related with respect to cucumber step definitions)
-├── pom.xml                   (Maven configuration)
+![image](https://github.com/vinil-p/SampleUIFramework/assets/20809464/e9356573-16cb-43b5-b649-c662a94c8e08)
+
  
 
 4) **Test Results**
