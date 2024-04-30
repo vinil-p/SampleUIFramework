@@ -7,7 +7,7 @@ Software Required:
 5) Install TestNG plugin in eclipse
 
 
-2)**General Flow of Any Selenium Framework with POM model and Cucumber.** 
+2) **General Flow of Any Selenium Framework with POM model and Cucumber.** 
 
 
 ![image](https://github.com/vinil-p/SampleUIFramework/assets/20809464/f265766a-8c5c-4388-afa8-5956fc8b0eda)
