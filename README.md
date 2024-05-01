@@ -12,6 +12,7 @@ Software Required:
     3) run command "mvn clean install" so that all dependent jar files will be downlaoded.
     4) Clean the project in Eclipse.
     5) Run Executor.java file and configure the required cucumber tags in that file.
+    6) You can also run the tests with maven command **mvn clean install**
 
 3. **General Flow of Any Selenium Framework with POM model and Cucumber.** 
 
