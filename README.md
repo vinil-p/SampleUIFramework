@@ -23,7 +23,9 @@ Software Required:
 
 ![Diagram (5)](https://github.com/vinil-p/SampleUIFramework/assets/20809464/1d34886e-4458-47d6-8c35-7e66730e2bb0)
 
+**** _Eclipse Structure_** **
 
+![image](https://github.com/vinil-p/SampleUIFramework/assets/20809464/fd2b80a7-6ac0-432e-8d1c-abfeb8d585fe)
 
  
 
