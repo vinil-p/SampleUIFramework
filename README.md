@@ -21,7 +21,9 @@ Software Required:
 4) **Project Structure The project structure is organized as follows:**
 
 
-![image](https://github.com/vinil-p/SampleUIFramework/assets/20809464/e9356573-16cb-43b5-b649-c662a94c8e08)
+![Diagram (5)](https://github.com/vinil-p/SampleUIFramework/assets/20809464/1d34886e-4458-47d6-8c35-7e66730e2bb0)
+
+
 
  
 
